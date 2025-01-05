@@ -14,7 +14,7 @@ try:
             self.setWindowIcon(QIcon(icon_path))
             self.setStyleSheet("""
         QPushButton {
-                background-color: #4991B6;
+                background-color: #377AC8;
                 border: none;
                 color: white;
                 padding: 20px 30px;
